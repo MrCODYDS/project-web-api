@@ -1,9 +1,18 @@
   
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "characters": [
+    { "id": 1,
+      "name": "Luke Skywalker",
+      "price": "€ 14,99"
+    },
+    { "id": 2,
+      "name": "C-3PO",
+      "price": "€ 13,99"
+    },
+    { "id": 3,
+      "name": "R2-D2",
+      "price": "€ 18,99"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
