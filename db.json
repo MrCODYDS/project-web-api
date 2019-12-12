@@ -12,6 +12,34 @@
     { "id": 3,
       "name": "R2-D2",
       "price": "€ 18,99"
+    },
+    { "id": 4,
+      "name": "Darth Vader",
+      "price": "€ 17,99"
+    },
+    { "id": 5,
+      "name": "Leia Organa",
+      "price": "€ 14,99"
+    },
+    { "id": 6,
+      "name": "Owen Lars",
+      "price": "€ 18,99"
+    },
+    { "id": 7,
+      "name": "Beru Whitesun lars",
+      "price": "€ 17,99"
+    },
+    { "id": 8,
+      "name": "R5-D4",
+      "price": "€ 14,99"
+    },
+    { "id": 9,
+      "name": "Biggs Darklighter",
+      "price": "€ 18,99"
+    },
+    { "id": 10,
+      "name": "Obi-Wan Kenobi",
+      "price": "€ 18,99"
     }
   ],
   "comments": [
