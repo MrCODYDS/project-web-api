@@ -3,43 +3,73 @@
   "characters": [
     { "id": 1,
       "name": "Luke Skywalker",
-      "price": "€ 14,99"
+      "price": "€ 14,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Luke Skywalker. Collectors item, based on movies and tv-series"
     },
     { "id": 2,
       "name": "C-3PO",
-      "price": "€ 13,99"
+      "price": "€ 13,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - C-3PO. Collectors item, based on movies and tv-series"
     },
     { "id": 3,
       "name": "R2-D2",
-      "price": "€ 18,99"
+      "price": "€ 18,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - R2-D2. Collectors item, based on movies and tv-series"
     },
     { "id": 4,
       "name": "Darth Vader",
-      "price": "€ 17,99"
+      "price": "€ 17,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Darth Vader. Collectors item, based on movies and tv-series"
     },
     { "id": 5,
       "name": "Leia Organa",
-      "price": "€ 14,99"
+      "price": "€ 14,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Leia Organa. Collectors item, based on movies and tv-series"
     },
     { "id": 6,
       "name": "Owen Lars",
-      "price": "€ 18,99"
+      "price": "€ 18,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Owen Lars. Collectors item, based on movies and tv-series"
     },
     { "id": 7,
       "name": "Beru Whitesun lars",
-      "price": "€ 17,99"
+      "price": "€ 17,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Beru Whitesun lars. Collectors item, based on movies and tv-series"
     },
     { "id": 8,
       "name": "R5-D4",
-      "price": "€ 14,99"
+      "price": "€ 14,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - R5-D4. Collectors item, based on movies and tv-series"
     },
     { "id": 9,
       "name": "Biggs Darklighter",
-      "price": "€ 18,99"
+      "price": "€ 18,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Biggs Darklighter. Collectors item, based on movies and tv-series"
     },
     { "id": 10,
       "name": "Obi-Wan Kenobi",
-      "price": "€ 18,99"
+      "price": "€ 18,99",
+      "category": "Funko Pop!",
+      "availibility": "In Stock",
+      "description": "FUNKO Figure POP! Star Wars - Obi-Wan Kenobi. Collectors item, based on movies and tv-series"
     }
   ],
   "comments": [
