@@ -72,11 +72,16 @@
       "description": "FUNKO Figure POP! Star Wars - Obi-Wan Kenobi. Collectors item, based on movies and tv-series"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { "id": 1,
+      "name": "yarne",
+      "email": "desmetyarne@gmail.com",
+      "password": "yarne"
+    },
+    { "id": 2,
+      "name": "jos",
+      "email": "vermeulenjos@gmail.com",
+      "password": "jos"
+    }
+  ]
 }
