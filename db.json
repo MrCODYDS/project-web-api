@@ -7,6 +7,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Star Wars",
+      "movie": "The Clone Wars",
       "description": "FUNKO Figure POP! Star Wars - Luke Skywalker. Collectors item, based on movies and tv-series"
     },
     { "id": 2,
@@ -15,6 +16,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Star Wars",
+      "movie": "The Clone Wars",
       "description": "FUNKO Figure POP! Star Wars - C-3PO. Collectors item, based on movies and tv-series"
     },
     { "id": 3,
@@ -23,6 +25,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Star Wars",
+      "movie": "Return Of The Jedi",
       "description": "FUNKO Figure POP! Star Wars - R2-D2. Collectors item, based on movies and tv-series"
     },
     { "id": 4,
@@ -31,6 +34,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Marvel",
+      "movie": "Spider Man Homecoming",
       "description": "FUNKO Figure POP! Star Wars - Darth Vader. Collectors item, based on movies and tv-series"
     },
     { "id": 5,
@@ -39,6 +43,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Marvel",
+      "movie": "Spider Man Homecoming",
       "description": "FUNKO Figure POP! Star Wars - Leia Organa. Collectors item, based on movies and tv-series"
     },
     { "id": 6,
@@ -47,6 +52,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Marvel",
+      "movie": "The Avengers",
       "description": "FUNKO Figure POP! Star Wars - Owen Lars. Collectors item, based on movies and tv-series"
     },
     { "id": 7,
@@ -55,6 +61,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Coca Cola",
+      "movie": "The Avengers",
       "description": "FUNKO Figure POP! Star Wars - Beru Whitesun lars. Collectors item, based on movies and tv-series"
     },
     { "id": 8,
@@ -63,6 +70,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Coca Cola",
+      "movie": "Frozen 2",
       "description": "FUNKO Figure POP! Star Wars - R5-D4. Collectors item, based on movies and tv-series"
     },
     { "id": 9,
@@ -71,6 +79,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Coca Cola",
+      "movie": "Frozen 2",
       "description": "FUNKO Figure POP! Star Wars - Biggs Darklighter. Collectors item, based on movies and tv-series"
     },
     { "id": 10,
@@ -79,6 +88,7 @@
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "brand": "Coca Cola",
+      "movie": "Frozen 2",
       "description": "FUNKO Figure POP! Star Wars - Obi-Wan Kenobi. Collectors item, based on movies and tv-series"
     }
   ],
