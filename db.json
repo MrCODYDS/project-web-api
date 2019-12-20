@@ -3,7 +3,7 @@
   "characters": [
     { "id": 1,
       "name": "Luke Skywalker",
-      "price": "14.99",
+      "price": "5.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - Luke Skywalker. Collectors item, based on movies and tv-series"
@@ -17,28 +17,28 @@
     },
     { "id": 3,
       "name": "R2-D2",
-      "price": "18.99",
+      "price": "6.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - R2-D2. Collectors item, based on movies and tv-series"
     },
     { "id": 4,
       "name": "Darth Vader",
-      "price": "17.99",
+      "price": "22.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - Darth Vader. Collectors item, based on movies and tv-series"
     },
     { "id": 5,
       "name": "Leia Organa",
-      "price": "14.99",
+      "price": "35.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - Leia Organa. Collectors item, based on movies and tv-series"
     },
     { "id": 6,
       "name": "Owen Lars",
-      "price": "18.99",
+      "price": "8.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - Owen Lars. Collectors item, based on movies and tv-series"
@@ -59,14 +59,14 @@
     },
     { "id": 9,
       "name": "Biggs Darklighter",
-      "price": "18.99",
+      "price": "28.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - Biggs Darklighter. Collectors item, based on movies and tv-series"
     },
     { "id": 10,
       "name": "Obi-Wan Kenobi",
-      "price": "18.99",
+      "price": "12.99",
       "category": "Funko Pop!",
       "availibility": "In Stock",
       "description": "FUNKO Figure POP! Star Wars - Obi-Wan Kenobi. Collectors item, based on movies and tv-series"
