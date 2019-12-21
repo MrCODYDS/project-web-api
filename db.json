@@ -94,7 +94,7 @@
   ],
   "reviews": [
     { "id": 1,
-      "charId": 1,
+      "charId": "Luke Skywalker",
       "title": "Totally accurate!",
       "description": "This funko pop looks so real, compared to the real actor.",
       "stars": "4"
