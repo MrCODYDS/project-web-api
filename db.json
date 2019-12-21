@@ -92,6 +92,44 @@
       "description": "FUNKO Figure POP! Star Wars - Obi-Wan Kenobi. Collectors item, based on movies and tv-series"
     }
   ],
+  "reviews": [
+    { "id": 1,
+      "charId": 1,
+      "title": "Totally accurate!",
+      "description": "This funko pop looks so real, compared to the real actor.",
+      "stars": "4"
+    },
+    { "id": 2,
+      "charId": 1,
+      "title": "Received broken...",
+      "description": "I received my funko pop yesterday and it was fully broken. Would not buy from Funko again!",
+      "stars": "1"
+    },
+    { "id": 3,
+      "charId": 2,
+      "title": "Awesome product!",
+      "description": "He looks so adorable! Can't stop looking at this funko pop. Always have wanted this!",
+      "stars": "5"
+    },
+    { "id": 4,
+      "charId": 2,
+      "title": "Quick delivery.",
+      "description": "I received my package 2 days later. This delivery was very quick, so thank you!",
+      "stars": "4"
+    },
+    { "id": 5,
+      "charId": 3,
+      "title": "Damaged box.",
+      "description": "The box was damaged when it got delivered. The funko pop itself was intact though.",
+      "stars": "3"
+    },
+    { "id": 6,
+      "charId": 3,
+      "title": "Cutest funko pop YET!",
+      "description": "This funk pop is so freaking cuuuuuute! Where has this been all my life...",
+      "stars": "4"
+    }
+  ],
   "users": [
     { "id": 1,
       "name": "yarne",
