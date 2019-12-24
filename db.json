@@ -130,6 +130,28 @@
       "stars": "4"
     }
   ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "Why is the moon sometimes out during the day?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+    },
+    {
+      "id": 2,
+      "question": "Will we ever discover aliens?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+    },
+    {
+      "id": 3,
+      "question": "How much does the Earth weigh?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+    },
+    {
+      "id": 4,
+      "question": "How do airplanes stay up?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+    }
+  ],
   "users": [
     { "id": 1,
       "name": "yarne",
