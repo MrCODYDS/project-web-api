@@ -133,23 +133,23 @@
   "faq": [
     {
       "id": 1,
-      "question": "Why is the moon sometimes out during the day?",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+      "question": "How do I update my account information?",
+      "answer": "You can update your email address and password in the Account Settings section. You must be logged in to make changes."
     },
     {
       "id": 2,
-      "question": "Will we ever discover aliens?",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+      "question": "Do I need an account to make a purchase?",
+      "answer": "You can purchase by creating an account or through guest checkout."
     },
     {
       "id": 3,
-      "question": "How much does the Earth weigh?",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+      "question": "How do I contact customer service?",
+      "answer": "Funko Shop Customer Support can be reached through email. Please contact FunkoShop@funko.com"
     },
     {
       "id": 4,
-      "question": "How do airplanes stay up?",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti."
+      "question": "My order won't go trough. What should I do?",
+      "answer": "Please only click the 'Place Order' button once to avoid multiple authorizations. If you continue to receive an error message, even after reviewing your credit card information, billing and shipping addresses, please check and make sure you are using the latest version of your web browser. If the problem still persists, please contact us at support@funko.com."
     }
   ],
   "users": [
